@@ -6,10 +6,10 @@ Kiimesoft is an open source organization created by [@dubisdev](https://github.c
 
 All kiimesoft apps:
 
-- 🤝 **Are Free Open Source Software (FOSS)**: anyone can use them freely.
-- 🔏 **Keep user data private**: they don't track you or your data.
-- 🪟 **Support Windows**: the main OS where they are developed.
-- 🛠️ **Are built with [Tauri](https://tauri.app/)**: which makes them small and fast.
+- 🤝 **Are Free Open Source Software (FOSS)** - Anyone can use them freely.
+- 🔏 **Keep user data private** - They don't track you or your data.
+- 🪟 **Support Windows** - The main OS where they are developed.
+- 🛠️ **Are built with [Tauri](https://tauri.app/)** - Which makes them small and fast.
 
 ## ✨ Our Apps
 
