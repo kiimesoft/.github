@@ -1,4 +1,4 @@
-# Kiimesoft - Developing the next generation of apps for Windows
+# Kiimesoft
 
 ## 🧬 What's kiimesoft
 
