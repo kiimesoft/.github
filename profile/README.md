@@ -13,8 +13,9 @@ All kiimesoft apps:
 
 ## ✨ Our Apps
 
-- [**RunMath**](https://github.com/kiimesoft/runmath) - Keyboard-first calculator for Windows ![runmath stars](https://img.shields.io/github/stars/kiimesoft/runmath?style=social)
-- [**QuickGPT**](https://github.com/kiimesoft/QuickGPT) - AI assistant based on GPT models for Windows ![quickgpt stars](https://img.shields.io/github/stars/kiimesoft/quickgpt?style=social)
-- [**Light Draw**](https://github.com/kiimesoft/lightdraw) - Lightweight drawing app for Windows ![lightdraw stars](https://img.shields.io/github/stars/kiimesoft/lightdraw?style=social)
-- [**KoS - Key on Screen**](https://github.com/kiimesoft/key-on-screen) - ⌨️ Show in your screen the keys you are pressing ![kos stars](https://img.shields.io/github/stars/kiimesoft/key-on-screen?style=social)
-- [**Pyground**](https://github.com/kiimesoft/pyground) - A web-based playground for python ![pyground stars](https://img.shields.io/github/stars/kiimesoft/pyground?style=social)
+- [**RunMath**](https://github.com/dubisdev/runmath) - Keyboard-first calculator for Windows ![runmath stars](https://img.shields.io/github/stars/dubisdev/runmath?style=social)
+- [**KoS - Key on Screen**](https://github.com/dubisdev/key-on-screen) - ⌨️ Show in your screen the keys you are pressing ![kos stars](https://img.shields.io/github/stars/dubisdev/key-on-screen?style=social)
+- [**QuickGPT**](https://github.com/dubisdev/QuickGPT) - AI assistant based on GPT models for Windows ![quickgpt stars](https://img.shields.io/github/stars/dubisdev/quickgpt?style=social)
+- [**TrayFier**](https://github.com/dubisdev/trayfier) - Supercharge your Windows Tray with links, files, executables... ![tryfier stars](https://img.shields.io/github/stars/dubisdev/trayfier?style=social)
+- [**Light Draw**](https://github.com/dubisdev/lightdraw) - Lightweight drawing app for Windows ![lightdraw stars](https://img.shields.io/github/stars/dubisdev/lightdraw?style=social)
+- [**Pyground**](https://github.com/dubisdev/pyground) - A web-based playground for python ![pyground stars](https://img.shields.io/github/stars/dubisdev/pyground?style=social)
